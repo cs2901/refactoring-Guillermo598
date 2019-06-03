@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="803afbcf-ff1f-453f-811f-3501f4fc4738" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/composing/extract-method_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composing/extract-method_before.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/composing/extract-variable_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composing/extract-variable_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composing/inline-method_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composing/inline-method_before.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/composing/extract-variable_before.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -32,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/composing/inline-method_before.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,10 +55,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/composing/extract-method_before.java" />
         <option value="$PROJECT_DIR$/src/composing/extract-variable_before.java" />
+        <option value="$PROJECT_DIR$/src/composing/inline-method_before.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="30" />
     <option name="y" value="22" />
     <option name="width" value="1250" />
@@ -124,7 +124,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559573014813" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559573145516" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
   </component>
@@ -351,15 +351,15 @@
       <option name="presentableId" value="Default" />
       <updated>1559568561150</updated>
       <workItem from="1559568568389" duration="665000" />
-      <workItem from="1559572121826" duration="892000" />
+      <workItem from="1559572121826" duration="1487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1557000" />
+    <option name="totallyTimeSpent" value="2152000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22937626" />
@@ -399,13 +399,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/composing/inline-method_before.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/composing/split-temporary-variable_before.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -420,6 +413,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composing/inline-method_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
